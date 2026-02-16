@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-openai
+langchain-core
+requests
+tabulate
+typing-extensions
+langsmith
+numpy
+pandas
+python-dotenv
